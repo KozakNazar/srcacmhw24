@@ -1,6 +1,6 @@
 /***************************************************************************************
 * Lviv'2020 // ACM // Java functional programming(by quicksort implementation example) *
-*    file: ACMHW24.java (renamed to Main.java) // using Java 8                         *
+*    file: ACMHW26_1.java (renamed to Main.java) // using Java 8                       *
 ****************************************************************************************/
 //// use default package // or use package: // package org.eom.acm; 
 
